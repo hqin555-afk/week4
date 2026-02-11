@@ -2,7 +2,7 @@
 
 body{
   margin: 0;
-  background-image: url("images/bg.jpg"); /* 如果你改名了 */
+  background-image: url("images/bg.jpg"); 
   background-repeat: repeat;
   font-family: Verdana, sans-serif
   font-family: Verdana, sans-serif;
@@ -166,4 +166,11 @@ footer{
   border-top: 1px solid #eee;
   color: #666;
   background: #fafafa;
+}
+.hero-img {
+  width: 40%;
+  max-width: 900px;
+  height: auto;
+  display: block;
+  margin: 0 auto;
 }
