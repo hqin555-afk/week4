@@ -159,6 +159,6 @@ footer{
 }
 .hero-img {
   width: 92%;
-  max-height: 400px;
+  max-height: 250px;
   object-fit: cover;
 }
